@@ -1,0 +1,49 @@
+body {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/8/89/%E7%90%B4%E6%A3%8B%E6%9B%B8%E7%94%BB%E5%9B%B3-The_Four_Elegant_Accomplishments_%28Kin_ki_sho_ga%29_MET_DP151593.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: #EFE6D5;
+    font-family: "Archivo Black", sans-serif;
+}
+
+h2 {
+    color: #EFE6D5;
+    font-family: "Archivo Black", sans-serif;
+}
+h3 {
+    color: #EFE6D5; 
+    font-family: "Montserrat", sans-serif;
+}
+
+.col-md-8 {
+    background-color: #A85768;
+    color: #EFE6D5; 
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.col-md-10 {
+    background-color: #A85768;
+    color: #EFE6D5; 
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 800px; 
+    margin-left: auto;
+    margin-right: auto; 
+}
+input, select {
+    width: 100%;
+    padding: 16px;  
+    border: 1px solid #d5b99b;
+    border-radius: 8px;
+    font-size: 16px;
+}
